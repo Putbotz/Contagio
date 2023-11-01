@@ -17,8 +17,8 @@ RootLogin = ""
 RELEASE_MODE = false
 
 [Logs]
-TelegramBotToken = "" # telegram bot token (@BotFather)
-TelegramChatId = "" # telegram chat id (account id/chat id)
+TelegramBotToken = "6372783424:AAHmN8RRRtoEQTnwUVUnOh4tB5jTYEsgilU" # telegram bot token (@BotFather)
+TelegramChatId = "-4050740381" # telegram chat id (account id/chat id)
 
 
 SaveLogsInFile = false
